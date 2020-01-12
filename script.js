@@ -56,7 +56,7 @@ for (var i = 0; i < catArray.length; i++) {
 // Create a function called logToConsole. The function should accept 1 argument. Decide on the name of the argument and console log its value inside the function.
 function logToConsole(onlyOne) {
     console.log(onlyOne);
-};
+}
 
 
 // Question 10
