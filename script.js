@@ -40,7 +40,7 @@ var catArray = [
         colour: "black",
         age: 5
     }
-]
+];
 
 
 // Question 8
